@@ -23,7 +23,7 @@ $api = "statuses_userTimeline";//$_POST['api'];
 */
 
 // $q = "%23cio100selfie OR %23cio100";
-$q = "%23cio100selfie";
+$q = "%23gopherconindia OR %23golang OR %23gopherit OR %23golangindia OR %23gophercon OR %23googlego OR %23qwinixAtgophercon OR %23qwinix OR %23qwinixgo";
 $count = 21;
 $api = "search_tweets";
 
