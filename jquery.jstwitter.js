@@ -19,7 +19,6 @@ $(function() {
 	    // core function of jqtweet
 	    // https://dev.twitter.com/docs/using-search
 	    loadTweets: function() {
-			debugger;
 	        var request;
 	         
 	        // different JSON request {hash|user}
