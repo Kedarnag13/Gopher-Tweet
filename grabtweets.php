@@ -24,7 +24,7 @@ $api = "statuses_userTimeline";//$_POST['api'];
 
 // $q = "%23cio100selfie OR %23cio100";
 // #justgopherit #goqwinix #gopherconindia 
-$q = "%justgopherit OR %23goqwinix OR %23gopherconindia;
+$q = "%23justgopherit OR %23goqwinix OR %23gopherconindia;
 $count = 21;
 $api = "search_tweets";
 
